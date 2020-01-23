@@ -55,7 +55,7 @@ All needed data will be downloaded to `~/ParlAI/data`, and any non-data files if
  - [Creating a new agent](https://parl.ai/docs/tutorial_seq2seq.html#)
  - [Model zoo (pretrained models)](https://parl.ai/docs/zoo.html)
  - [Plug into MTurk](http://parl.ai/docs/tutorial_mturk.html)
- - [Plug into Facebook Messenger](http://parl.ai/docs/tutorial_messenger.html)
+ - [Plug into Facebook Messenger](http://parl.ai/docs/tutorial_chat_service.html)
 
 
 ## Examples
